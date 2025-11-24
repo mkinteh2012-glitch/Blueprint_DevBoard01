@@ -1,6 +1,6 @@
 # Blueprint_DevBoard01
-This is my devboard following the tutorial for hackclub's blueprint program and also because I want to go to prototype
-You may be wondering why I made this is because:
+This is my devboard following the tutorial for hackclub's blueprint program and also because I want to go to prototype,
+you may be wondering why I made this is because:
 1. I need a Rasberry Pi Pico and this is the same thing as one
 2. I want to customize it
 3. I want to to to Prototype seems fun
@@ -16,6 +16,7 @@ You may be wondering why I made this is because:
 # Render 
 <img width="833" height="810" alt="Screenshot 2025-11-24 070640" src="https://github.com/user-attachments/assets/b42c1f30-4590-4cf8-97b8-f1479c9be1e8" />
 <img width="369" height="885" alt="Screenshot 2025-11-24 070627" src="https://github.com/user-attachments/assets/479e4a2e-cec8-4589-a406-e876a8e653f1" />
-
+Made by: Muhammad Kinteh, PenguinBoyMo for Hackclub's Blueprint program.
+11/24/25
 
 
